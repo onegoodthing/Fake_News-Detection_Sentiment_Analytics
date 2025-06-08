@@ -33,7 +33,7 @@ Produce actionable insights & recommendations for platform owners and researcher
 ### Machine Learning Model Comparision and Precision
 | Model Comparision | Model Precision |
 |------------|---------------|
-| <img src="images/ModelComparison.png" width="65%" height="65%"> | <img src="images/Model Prescision.png" width="65%" height="65%"> |
+| <img src="images/ModelComparison.png"> | <img src="images/Model Prescision.png"> |
 
 
 ## 2 . Highlights & findings
@@ -48,8 +48,10 @@ Temporal bursts – Peaks in headline volume coincide with major geopolitical ev
 ### Analysis
 | Sentiment Analysis | Real Vs Fake News |
 |------------|---------------|
-| <img src="images/SentimentAnalysis.png" width="65%" height="65%"> | <img src="images/Graph_RealVsFakeNew.png" width="65%" height="65%"> |
+| <img src="images/SentimentAnalysis.png"> | <img src="images/Graph_RealVsFakeNew.png"> |
 
+### Publication Time of news
+<img src="images/Publication_time.png">
 
 ## 3 . Recommendations
 Dynamic sentiment thresholds – Flag headlines whose polarity deviates > 2 σ from the rolling weekly mean.
