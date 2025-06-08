@@ -30,6 +30,9 @@ Produce actionable insights & recommendations for platform owners and researcher
 |------------|---------------|
 | <img src="images/WordCloud.png"> | <img src="images/RocCurve.png" > |
 
+### Corelation between numerical coloumns
+<img src="images/corelation_numericalColoumns.png"> 
+
 ### Machine Learning Model Comparision and Precision
 | Model Comparision | Model Precision |
 |------------|---------------|
