@@ -28,7 +28,12 @@ Produce actionable insights & recommendations for platform owners and researcher
 ### EDA outputs
 | Word cloud | ROC-AUC curve |
 |------------|---------------|
-| <img src="images/WordCloud.png" width="45%"> | <img src="images/RocCurve.png" width="45%"> |
+| <img src="images/WordCloud.png" width="65%"> | <img src="images/RocCurve.png" width="65%"> |
+
+### Machine Learning Model Comparision and Precision
+| Model Comparision | Model Precision |
+|------------|---------------|
+| <img src="images/ModelComparison.png" width="65%"> | <img src="images/Model Prescision.png" width="65%"> |
 
 
 ## 2 . Highlights & findings
@@ -43,7 +48,7 @@ Temporal bursts – Peaks in headline volume coincide with major geopolitical ev
 ### Analysis
 | Sentiment Analysis | Real Vs Fake News |
 |------------|---------------|
-| <img src="images/SentimentAnalysis.png" width="45%"> | <img src="images/Graph_RealVsFakeNew.png" width="45%"> |
+| <img src="images/SentimentAnalysis.png" width="65%"> | <img src="images/Graph_RealVsFakeNew.png" width="65%"> |
 
 
 ## 3 . Recommendations
