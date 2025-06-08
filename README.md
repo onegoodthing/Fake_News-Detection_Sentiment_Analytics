@@ -25,6 +25,11 @@ Produce actionable insights & recommendations for platform owners and researcher
 | **Exploratory analysis** | Word-cloud, bar-plots, violin plots for polarity/subjectivity | `figures/…`                            |
 | **Clustering / ML**      | K-Means (elbow≈4), logistic-reg. baseline, ROC/AUC demo       | Pickled model + metrics                |
 
+### EDA outputs
+| Word cloud | ROC-AUC curve |
+|------------|---------------|
+| <img src="images/WordCloud.png" width="45%"> | <img src="images/RocCurve.png" width="45%"> |
+
 
 ## 2 . Highlights & findings
 Prevalence gap – Fake-tagged headlines out-number verified ones roughly 3 : 1, underscoring platform exposure risk.
@@ -34,6 +39,12 @@ Sentiment skew – Fake stories lean toward extreme polarity (very positive or v
 Keyword hotspots – Frequent terms include “claim”, “viral”, “deepfake”, “exposed”, “hoax”—useful for heuristic filters.
 
 Temporal bursts – Peaks in headline volume coincide with major geopolitical events; suggests value in time-aware models.
+
+### Analysis
+| Sentiment Analysis | Real Vs Fake News |
+|------------|---------------|
+| <img src="images/SentimentAnalysis.png" width="45%"> | <img src="images/Graph_RealVsFakeNew.png" width="45%"> |
+
 
 ## 3 . Recommendations
 Dynamic sentiment thresholds – Flag headlines whose polarity deviates > 2 σ from the rolling weekly mean.
