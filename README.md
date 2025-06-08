@@ -46,6 +46,15 @@ User education banners – Summarise detected sentiment & credibility score besi
 ## 4 . How to reproduce
 jupyter notebook Fake_New_Project.ipynb  # or run_all.sh
 
+## 5 . 🛠  Tech stack
+| Layer | Technology |
+|-------|------------|
+| Language | **Python 3.11** |
+| Core libs | `BeautifulSoup4`, `requests`, `pandas`, `numpy` |
+| NLP | `scikit-learn`, `TextBlob`, `NLTK` |
+| Visuals | `matplotlib`, `seaborn`, `wordcloud` |
+| CI / CD | GitHub Actions |
+| Packaging | `conda`, `pip-tools` |
 
 
 ## References
