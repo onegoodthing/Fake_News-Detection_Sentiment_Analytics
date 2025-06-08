@@ -28,7 +28,7 @@ Produce actionable insights & recommendations for platform owners and researcher
 ### EDA outputs
 | Word cloud | ROC-AUC curve |
 |------------|---------------|
-| <img src="images/WordCloud.png" width="65%" height="65%"> | <img src="images/RocCurve.png" width="65%" height="65%"> |
+| <img src="images/WordCloud.png"> | <img src="images/RocCurve.png" > |
 
 ### Machine Learning Model Comparision and Precision
 | Model Comparision | Model Precision |
